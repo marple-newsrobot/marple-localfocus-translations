@@ -1,0 +1,562 @@
+localfocus_id,marple_id
+Antwerpen,BE_0BEANR
+Gent (Ghent),BE_0BEGNE
+Oostende (Ostend),BE_0BEOST
+Zeebrugge,BE_0BEZEE
+Burgas,BG_0BGBOJ
+Varna,BG_0BGVAR
+Aalborg,DK_0DKAAL
+Ærøskøbing,DK_0DKARK
+Århus,DK_0DKAAR
+Bagenkop,DK_0DKBAG
+Ballebro,DK_0DKBLB
+Bøjden,DK_0DKBOS
+Branden Havn,DK_0DKBRH
+Dragør,DK_0DKDRA
+Ebeltoft,DK_0DKEBT
+Egense,DK_0DKEGN
+Esbjerg,DK_0DKEBJ
+Fåborg Havn,DK_0DKFAA
+Fejø,DK_0DKFEJ
+Fredericia (Og Shell-Havnen),DK_0DKFRC
+Frederikshavn,DK_0DKFDH
+Fur,DK_0DKFUH
+Fynshav,DK_0DKFYH
+Gedser,DK_0DKGED
+Grenå,DK_0DKGRE
+Hals,DK_0DKHAS
+Hanstholm,DK_0DKHAN
+Hardeshøj,DK_0DKHDH
+Havneby,DK_0DKHNB
+Helsingør (Elsinore),DK_0DKHLS
+Hirtshals,DK_0DKHIR
+Hou Havn,DK_0DKHOH
+Hundested,DK_0DKHUN
+Hvalpsund,DK_0DKHVA
+Kalundborg,DK_0DKKAL
+Kastrup,DK_0DKKTP
+Kleppen,DK_0DKKLP
+Københavns Havn,DK_0DKCPH
+Køge,DK_0DKKOG
+Korsør,DK_0DKKRR
+Kragenæs,DK_0DKKRA
+Marstal,DK_0DKMRS
+Masnedsund,DK_0DKMNS
+"Nordby Havn, Fanø",DK_0DKNDB
+Nørresundby,DK_0DKNRS
+Nyborg,DK_0DKNBG
+Rødby (Færgehavn),DK_0DKROF
+Rønne,DK_0DKRNN
+Rørvig,DK_0DKRRV
+Rudkøbing,DK_0DKRKB
+Sælvig Havn,DK_0DKSLV
+Sjællands Odde,DK_0DKSJO
+Spodsbjerg Havn,DK_0DKSPB
+Sundsøre,DK_0DKSUE
+Svendborg,DK_0DKSVE
+Tårs,DK_0DKTRS
+Thyborøn,DK_0DKTYB
+Venø Havn,DK_0DKVEN
+"Vesterø Havn, Læsø",DK_0DKVES
+Vordingborg Havn,DK_0DKVOR
+Amrum,DE_1DEIAM
+Baltrum,DE_1DEBMR
+Bensersiel,DE_1DEBEN
+Borkum,DE_1DEBMK
+Bremen,DE_1DEBRE
+Bremerhaven,DE_1DEBRV
+Brunsbüttel,DE_1DEBRB
+Büsum,DE_1DEBUM
+Carolinensiel,DE_1DECAR
+Cuxhaven,DE_1DECUX
+Dagebüll,DE_1DEDAG
+Eckernförde,DE_2DEECK
+Emden,DE_1DEEME
+Flensburg,DE_2DEFLF
+Hamburg,DE_1DEHAM
+Heiligenhafen,DE_2DEHHF
+Helgoland,DE_1DEHGL
+Hooksiel,DE_1DEHOO
+Hörnum/Sylt,DE_1DEHRM
+Juist,DE_1DEJUI
+Kiel,DE_2DEKEL
+Langeoog,DE_1DELGO
+List/Sylt,DE_1DELIS
+Lübeck,DE_2DELBC
+Nessmersiel,DE_1DENES
+Neuharlingersiel,DE_1DENHS
+Neustadt/Holstein,DE_2DENHO
+Norddeich,DE_1DENOE
+Norderney,DE_1DENRD
+Nordstrand,DE_1DENOR
+Pellworm,DE_1DEPEL
+Puttgarden,DE_2DEPUT
+Rostock,DE_2DERSK
+Sassnitz,DE_2DESAS
+Spieckeroog,DE_1DESPI
+Ueckermünde,DE_2DEUCK
+Wangerooge,DE_1DEAGE
+Wedel-Schulau,DE_1DEWED
+Wilhelmshaven,DE_1DEWVN
+Wittmund,DE_1DEWMD
+Heltermaa,EE_0EEHLT
+Kuivastu,EE_0EEKUI
+Patareisadam,EE_0EEPAR
+Rohuküla,EE_0EERHK
+Tallinn,EE_0EETLL
+Virtsu,EE_0EEVIR
+Cork,IE_0IEORK
+Dublin,IE_0IEDUB
+Dun Laoghaire,IE_0IEDLG
+Rosslare Harbour,IE_0IEROS
+Adamas Milou,EL_0GRMLO
+Agia Efimia,EL_0GRAEF
+Agia Marina Attikis,EL_0GRGMA
+Agia Pelagia,EL_0GRAPE
+Agia Roumeli Chanion,EL_0GRROU
+Agioi Theodoroi,EL_0GRAGT
+Agiokampos Larisas,EL_0GRAGK
+Agios Kirykos,EL_0GRAKI
+Agios Konstantinos,EL_0GRAKO
+Agios Nikolaos Kritis,EL_0GRANI
+Agkistri Aiginas,EL_0GRAGG
+Aidipsos,EL_0GREDI
+Aigina,EL_0GRAEG
+Aktio Vonitsas,EL_0GRAKT
+Alexandroupolis,EL_0GRAXD
+Alonnisos,EL_0GRALO
+Ammouliani,EL_0GRAMI
+Amorgos (Katapola),EL_0GRAMO
+Andros,EL_0GRAND
+Antiparos,EL_0GRANP
+Antirrio,EL_0GRANT
+Argostoli,EL_0GRARM
+Arkitsa Fthiotidas,EL_0GRARK
+Astakos,EL_0GRAST
+Astypalaia,EL_0GRJTY
+Chalki Dodekanisou,EL_0GRHAL
+Chalkida,EL_0GRCLK
+Chania,EL_0GRCHQ
+Chios,EL_0GRJKH
+Chora Sfakion,EL_0GRCSF
+Dafni Agiou Orous,EL_0GRDAF
+Elafonisos Lakonias,EL_0GRELN
+Elefsina,EL_0GREEU
+Eretria Evvoias,EL_0GRERE
+Ermioni,EL_0GRERM
+Evdilos,EL_0GREYD
+Faneromeni Salaminas,EL_0GRFNR
+Folegandros Kyklades,EL_0GRFOL
+Fournoi Samou,EL_0GRFOU
+Frikes Ithakis,EL_0GRSAT
+Galatas Troizinias,EL_0GRGAL
+Gavrio,EL_0GRGAV
+Glossa Skopelou,EL_0GRGLO
+Glyfa Fthiotidas,EL_0GRGLY
+Gytheio,EL_0GRGYT
+Igoumenitsa,EL_0GRIGO
+Ios,EL_0GRIOS
+Irakleio,EL_0GRHER
+Isthmia,EL_0GRITM
+Itea,EL_0GRITA
+Ithaki,EL_0GRITH
+Kalamata,EL_0GRKLX
+Kalymnos,EL_0GRKMI
+Karlovasi,EL_0GRKAR
+Karpathos,EL_0GRAOK
+Karystos,EL_0GRKST
+Kasos,EL_0GRKSJ
+Kasteli Kissamou,EL_0GRKIS
+Katakolo,EL_0GRKAK
+Kavala,EL_0GRKVA
+Kea,EL_0GRKEA
+Keramoti,EL_0GRKER
+Kerkyra,EL_0GRCFU
+Kimolos,EL_0GRKMS
+Kos,EL_0GRKGS
+Kylini,EL_0GRKYL
+Kymi,EL_0GRKIM
+Kythnos,EL_0GRKYT
+Lakki Lerou,EL_0GRLRS
+Lavrio,EL_0GRLAV
+Lefkada,EL_0GRLEV
+Leonidio,EL_0GRLND
+Linaria Skyrou,EL_0GRSKU
+Lixouri,EL_0GRLIX
+Marmari,EL_0GRMRM
+Meganisi,EL_0GRMGN
+Megara,EL_0GRMGR
+Methana,EL_0GRMET
+Monemvasia,EL_0GRMON
+Moudros Limnou,EL_0GRMDR
+Mykonos,EL_0GRJMK
+Myrina,EL_0GRMYR
+Mytilini,EL_0GRMJT
+Nafplio,EL_0GRNAF
+Naxos,EL_0GRJNX
+Nea Moudania Chalkidikis,EL_0GRNMA
+Nea Styra,EL_0GRNST
+Neapoli Lakonias,EL_0GRNEA
+Nissyros,EL_0GRNIS
+Nydri,EL_0GRNID
+Oinousses,EL_0GRINO
+Oreoi,EL_0GRORE
+Oropos,EL_0GRORO
+Ouranoupoli Chalkidikis,EL_0GROUR
+Palaia Epidavros,EL_0GRPEP
+Palaia Psara Chiou,EL_0GRPAA
+Paloukia Salaminas,EL_0GRPAO
+Paros,EL_0GRPAS
+Patmos,EL_0GRPMS
+Patra,EL_0GRGPA
+Paxoi,EL_0GRPAX
+Peiraias,EL_0GRPIR
+Perama,EL_0GRPER
+Poros Kefallinias,EL_0GRPKE
+Poros Troizinias,EL_0GRPTR
+Porto Cheli,EL_0GRPHE
+Porto Lagos,EL_0GRPTL
+Preveza,EL_0GRPVK
+Pythagorio,EL_0GRPYT
+Rafina,EL_0GRRAF
+Rethymno,EL_0GRRET
+Rio,EL_0GRRIO
+Rodos,EL_0GRRHO
+Sami,EL_0GRSMI
+Samothraki,EL_0GRSAM
+Serifos,EL_0GRSER
+Sifnos,EL_0GRKRE
+Siteia,EL_0GRJSH
+Skiathos,EL_0GRJSI
+Skopelos,EL_0GRSKO
+Souda Bay,EL_0GRSUD
+Souvala Aiginas,EL_0GRSLA
+Spetses,EL_0GRSPE
+Stavros Chalkidikis,EL_0GRSHA
+Stylida,EL_0GRSYS
+Symi,EL_0GRSYM
+Syros,EL_0GRJSY
+Thasos,EL_0GRTSO
+Thessaloniki,EL_0GRSKG
+Thira,EL_0GRJTR
+Tinos,EL_0GRTIN
+Trypiti Chalkidikis,EL_0GRTRY
+Vathy Samou,EL_0GRVTH
+Volos,EL_0GRVOL
+Ydra,EL_0GRHYD
+Zakynthos,EL_0GRZTH
+Algeciras,ES_2ESALG
+Alicante,ES_2ESALC
+Almería,ES_2ESLEI
+Avilés,ES_1ESAVS
+Barcelona,ES_2ESBCN
+Bilbao,ES_1ESBIO
+Cádiz,ES_2ESCAD
+Cartagena,ES_2ESCAR
+Ceuta,ES_3ESCEU
+Ferrol,ES_1ESFRO
+Gijón,ES_1ESGIJ
+Huelva,ES_2ESHUV
+La Coruña,ES_1ESLCG
+Las Palmas,ES_2ESLPA
+Málaga,ES_2ESAGP
+Melilla,ES_4ESMLN
+Motril,ES_2ESMOT
+Palma Mallorca,ES_2ESPMI
+Pasajes,ES_1ESPAS
+Santa Cruz de Tenerife,ES_2ESSCT
+Santander,ES_1ESSDR
+Tarragona,ES_2ESTAR
+Valencia,ES_2ESVLC
+Vigo,ES_1ESVGO
+Villagarcía (de Arosa),ES_1ESVIL
+Ajaccio,FR_2FRAJA
+Bastia,FR_2FRBIA
+Bayonne,FR_1FRBAY
+Bonifacio,FR_2FRBON
+Bordeaux,FR_1FRBOD
+Boulogne-sur-Mer,FR_1FRBOL
+Brest,FR_1FRBES
+Caen,FR_1FRCFR
+Calais,FR_1FRCQF
+Calvi,FR_2FRCLY
+Cannes,FR_2FRCEQ
+Cherbourg,FR_1FRCER
+Concarneau,FR_1FRCOC
+Dieppe,FR_1FRDPE
+Douarnenez,FR_1FRDRZ
+Dunkerque,FR_1FRDKK
+Fort-de France (Martinique),FR_4MQFDF
+La Rochelle,FR_1FRLRH
+Le Havre,FR_1FRLEH
+L´Île Rousse,FR_2FRILR
+Lorient,FR_1FRLRT
+Marseille,FR_2FRMRS
+Nantes Saint-Nazaire,FR_1FRNTE
+Nice,FR_2FRNCE
+Pointe-à-Pitre (Guadeloupe),FR_4GPPTP
+Port Réunion (ex Pointe-des-Galets) (Réunion),FR_5REPDG
+Porto Vecchio,FR_2FRPVO
+Propriano,FR_2FRPRP
+Roscoff,FR_1FRROS
+Rouen,FR_1FRURO
+Sète,FR_2FRSET
+St Malo,FR_1FRSML
+Toulon,FR_2FRTLN
+Biograd na Moru,HR_0HRBNM
+Bol,HR_0HRBOL
+Cres,HR_0HRCRS
+Dubrovnik,HR_0HRDBV
+Hvar,HR_0HRHVA
+Jablanac,HR_0HRJAB
+Korcula,HR_0HRKOR
+Krk,HR_0HRKRK
+Makarska,HR_0HRMAK
+Novalja,HR_0HRNVL
+Ploce,HR_0HRPLE
+Porec,HR_0HRPOR
+Preko,HR_0HRPRE
+Pula,HR_0HRPUY
+Rab,HR_0HRRAB
+Rabac,HR_0HRRBC
+Rijeka,HR_0HRRJK
+Rogac,HR_0HRRGC
+Rovinj,HR_0HRROV
+Sibenik,HR_0HRSIB
+Split,HR_0HRSPU
+Stari Grad,HR_0HRSGD
+Sucuraj,HR_0HRSUC
+Supetar,HR_0HRSUP
+Trogir,HR_0HRTRO
+Trpanj,HR_0HRTRJ
+Vela Luka,HR_0HRVLK
+Vis,HR_0HRVIS
+Vodice,HR_0HRVDC
+Zadar,HR_0HRZAD
+Amalfi,IT_0ITAMA
+Ancona,IT_0ITAOI
+Anzio,IT_0ITANZ
+Augusta,IT_0ITAUG
+Bari,IT_0ITBRI
+Brindisi,IT_0ITBDS
+Cagliari,IT_0ITCAG
+Calasetta,IT_0ITCLS
+Capri,IT_0ITPRJ
+Carloforte,IT_0ITCLF
+Casamicciola,IT_0ITCML
+Castellammare di Stabia,IT_0ITCAS
+Catania,IT_0ITCTA
+Chioggia,IT_0ITCHI
+Civitavecchia,IT_0ITCVV
+Crotone,IT_0ITCRV
+Falconara Marittima,IT_0ITFAL
+Favignana,IT_0ITFAV
+Fiumicino,IT_0ITFCO
+Formia,IT_0ITFOM
+Gaeta,IT_0ITGAE
+Gela,IT_0ITGEA
+Genova,IT_0ITGOA
+Gioia Tauro,IT_0ITGIT
+Golfo Aranci,IT_0ITGAI
+Isola del Giglio,IT_0ITIDG
+La Maddalena,IT_0ITMDA
+La Spezia,IT_0ITSPE
+Lampedusa,IT_0ITLMP
+Levanzo,IT_0ITLEV
+Lipari,IT_0ITLIP
+Livorno,IT_0ITLIV
+Marina di Carrara,IT_0ITMDC
+Messina,IT_0ITMSN
+Milazzo,IT_0ITMLZ
+Monfalcone,IT_0ITMNF
+Napoli,IT_0ITNAP
+Olbia,IT_0ITOLB
+Ortona,IT_0ITOTN
+Palau,IT_0ITPAU
+Palermo,IT_0ITPMO
+Pantelleria,IT_0ITPNL
+Piombino,IT_0ITPIO
+Ponza,IT_0ITPNZ
+Porto d'Ischia,IT_0ITPDI
+Porto Foxi,IT_0ITPFX
+Porto Nogaro,IT_0ITPNG
+Porto Santo Stefano,IT_0ITPSS
+Porto Torres,IT_0ITPTO
+Portoferraio,IT_0ITPFE
+Portovesme,IT_0ITPVE
+Positano,IT_0ITPOS
+Pozzallo,IT_0ITPZL
+Pozzuoli,IT_0ITPOZ
+Procida,IT_0ITPRO
+Ravenna,IT_0ITRAN
+Reggio di Calabria,IT_0ITREG
+Rio Marina,IT_0ITRMA
+Salerno,IT_0ITSAL
+Salina,IT_0ITSLA
+Santa Panagia,IT_0ITSPA
+Santa Teresa di Gallura,IT_0ITSTE
+Savona,IT_0ITSVN
+Siracusa,IT_0ITSIR
+Sorrento,IT_0ITRRO
+Taranto,IT_0ITTAR
+Termoli,IT_0ITTMI
+Torregrande,IT_0ITTGR
+Trapani,IT_0ITTPS
+Tremiti,IT_0ITTMT
+Trieste,IT_0ITTRS
+Venezia,IT_0ITVCE
+Vulcano Porto,IT_0ITVUL
+Larnaka,CY_0CYLCA
+Lemesos,CY_0CYLMS
+Riga,LV_0LVRIX
+Klaipeda,LT_0LTKLJ
+Cirkewwa,MT_0MTCKW
+"Mgarr, Gozo",MT_0MTMGZ
+Amsterdam,NL_0NLAMS
+Delfzijl,NL_0NLDZL
+Den Helder,NL_0NLDHR
+Dordrecht,NL_0NLDOR
+Harlingen,NL_0NLHAR
+Moerdijk,NL_0NLMOE
+Rotterdam,NL_0NLRTM
+Scheveningen,NL_0NLSCE
+Terneuzen,NL_0NLTNZ
+Vlaardingen,NL_0NLVLA
+Vlissingen,NL_0NLVLI
+Zeeland Seaports,NL_0NLZSP
+Gdansk,PL_0PLGDN
+Gdynia,PL_0PLGDY
+Hel,PL_0PLHEL
+Swinoujscie,PL_0PLSWI
+Funchal (Madeira),PT_0PTFNC
+"Porto Santo (Ilha de Porto Santo, Madeira)",PT_0PTPXO
+Setúbal,PT_0PTSET
+Koper,SI_0SIKOP
+Eckerö,FI_0FIECK
+Helsinki,FI_0FIHEL
+Mariehamn,FI_0FIMHQ
+Naantali,FI_0FINLI
+Turku,FI_0FITKU
+Vaasa,FI_0FIVAA
+Göteborg,SE_2SEGOT
+Grisslehamn,SE_1SEGRH
+Halmstad,SE_2SEHAD
+Helsingborg,SE_1SEHEL
+Kappelskär,SE_1SEKPS
+Karlshamn,SE_1SEKAN
+Karlskrona,SE_1SEKAA
+Landskrona,SE_1SELAA
+Malmö,SE_1SEMMA
+Nynäshamn (ports),SE_1SENYN
+Oskarshamn,SE_1SEOSK
+Oxelösund (ports),SE_1SEOXE
+Skellefteå,SE_1SESFT
+Slite (ports),SE_1SESLI
+Stockholm,SE_1SESTO
+Strömstad,SE_2SESMD
+Trelleborg,SE_1SETRG
+Umeå,SE_1SEUME
+Varberg,SE_2SEVAG
+Västervik,SE_1SEVVK
+Visby,SE_1SEVBY
+Ystad,SE_1SEYST
+Aberdeen,UK_1GBABD
+Barrow-In-Furness,UK_1GBBIF
+Belfast,UK_1GBBEL
+Bristol,UK_1GBBRS
+Cairnryan,UK_1GBCYN
+Cardiff,UK_1GBCDF
+Clydeport,UK_1GBCYP
+Cromarty Firth,UK_1GBCRN
+Dartmouth,UK_1GBDTM
+Dover,UK_1GBDVR
+Dundee,UK_1GBDUN
+Falmouth,UK_1GBFAL
+Felixstowe,UK_1GBFXT
+Fishguard,UK_1GBFIS
+Fleetwood,UK_1GBFLE
+Folkestone,UK_1GBFOL
+Forth,UK_1GBFOR
+Harwich,UK_1GBHRW
+Heysham,UK_1GBHYM
+Holyhead,UK_1GBHLY
+Hull,UK_1GBHUL
+Immingham,UK_1GBIMM
+Ipswich,UK_1GBIPS
+Larne,UK_1GBLAR
+Lerwick (Shetland Islands),UK_1GBLER
+Liverpool,UK_1GBLIV
+Llandudno,UK_1GBLDO
+London,UK_1GBLON
+Medway,UK_1GBMED
+Milford Haven,UK_1GBMLF
+Mostyn,UK_1GBCHE
+Newhaven,UK_1GBNHV
+Oban,UK_1GBOBA
+Peterhead,UK_1GBPHD
+Plymouth,UK_1GBPLY
+Poole,UK_1GBPOO
+Portsmouth,UK_1GBPME
+Ramsgate,UK_1GBRMG
+Southampton,UK_1GBSOU
+Stranraer,UK_1GBSTR
+Swansea,UK_1GBSWA
+Tees & Hartlepool,UK_1GBMME
+Troon,UK_1GBTRN
+Tyne,UK_1GBTYN
+Warrenpoint,UK_1GBWPT
+Weymouth,UK_1GBWEY
+Whitehaven,UK_1GBWHV
+Bergen,NO_0NOBGO
+Borg,NO_0NOBRG
+Eigersund,NO_0NOEGD
+Karmsund,NO_0NOKAS
+Kristiansand S,NO_0NOKRS
+Larvik,NO_0NOLAR
+Moss,NO_0NOMSS
+Oslo,NO_0NOOSL
+"Porsgrunn, Rafnes, Herøya, Brevik, Skien, Langesund, Voldsfjorden",NO_0NOGVL
+Sandefjord,NO_0NOSAD
+Stavanger,NO_0NOSVG
+Alanya,TR_2TRALA
+Aliaga,TR_2TRALI
+Ambarli,TR_2TRAMB
+Anamur,TR_2TRANA
+Antalya,TR_2TRAYT
+Ayvalik,TR_2TRAYV
+Bodrum,TR_2TRBXN
+Botas,TR_2TRBOT
+Bozcaada,TR_2TRBZC
+Canakkale,TR_2TRCKZ
+Cesme,TR_2TRCES
+Datca,TR_2TRDAT
+"Dikili, Izmir",TR_2TRDIK
+Edremit,TR_2TREDO
+Erdek,TR_2TRERK
+Fethiye,TR_2TRFET
+Foca,TR_2TRFOC
+Gelibolu,TR_2TRGEL
+Gemlik,TR_2TRGEM
+Giresun,TR_1TRGIR
+Gocek,TR_2TRGCK
+Gokceada,TR_2TRGCA
+Gulluk,TR_2TRGUL
+Hopa,TR_1TRHOP
+"Iskenderun, Hatay",TR_2TRISK
+Istanbul,TR_2TRIST
+Izmir,TR_2TRIZM
+Izmit,TR_2TRIZT
+Karabiga,TR_2TRKRB
+Kas,TR_2TRKAS
+Kusadasi,TR_2TRKUS
+Marmara Adasi,TR_2TRMRA
+Marmaris,TR_2TRMRM
+Mersin,TR_2TRMER
+"Mudanya, Bursa",TR_2TRMUD
+Samsun,TR_1TRSSX
+Silivri,TR_2TRSIL
+Tasucu,TR_2TRTAS
+Tekirdag,TR_2TRTEK
+Trabzon,TR_1TRTZX
+Yalova,TR_2TRYAL
+Zonguldak,TR_1TRZON
