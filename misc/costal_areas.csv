@@ -1,0 +1,19 @@
+localfocus_id,marple_id
+Germany: North Sea,DE_1
+Germany: Baltic Sea,DE_2
+Germany: unspecified maritime coastal area,DE_9
+Spain: North Atlantic,ES_1
+Spain: Mediterranean and South Atlantic,ES_2
+Spain: Ceuta,ES_3
+Spain: Melilla,ES_4
+France: Atlantic / North Sea,FR_1
+France: Mediterranean,FR_2
+France: Guadeloupe and Martinique,FR_4
+France: Réunion,FR_5
+Sweden: Baltic Sea,SE_1
+Sweden: North Sea,SE_2
+Sweden: unspecified maritime coastal area,SE_9
+United Kingdom: Great Britain and Northern Ireland,UK_1
+Turkey: Black Sea,TR_1
+Turkey: Mediterranean,TR_2
+Turkey: unspecified maritime coastal area,TR_9
