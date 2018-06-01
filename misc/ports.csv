@@ -5,6 +5,7 @@ Oostende (Ostend),BE_0BEOST
 Zeebrugge,BE_0BEZEE
 Burgas,BG_0BGBOJ
 Varna,BG_0BGVAR
+Bulgaria - other ports,BG_0BG888
 Aalborg,DK_0DKAAL
 Ærøskøbing,DK_0DKARK
 Århus,DK_0DKAAR
@@ -72,7 +73,10 @@ Cuxhaven,DE_1DECUX
 Dagebüll,DE_1DEDAG
 Eckernförde,DE_2DEECK
 Emden,DE_1DEEME
+Esens,DE_1DE76Y
 Flensburg,DE_2DEFLF
+Flensburger Förde - other ports,DE_2DE117
+Föhr,DE_1DE017
 Hamburg,DE_1DEHAM
 Heiligenhafen,DE_2DEHHF
 Helgoland,DE_1DEHGL
@@ -99,12 +103,15 @@ Wangerooge,DE_1DEAGE
 Wedel-Schulau,DE_1DEWED
 Wilhelmshaven,DE_1DEWVN
 Wittmund,DE_1DEWMD
+Germany (Baltic Sea) - other ports,DE_2DE115
+Germany (unknown maritime coastal area) - other ports,DE_9DE888
 Heltermaa,EE_0EEHLT
 Kuivastu,EE_0EEKUI
 Patareisadam,EE_0EEPAR
 Rohuküla,EE_0EERHK
 Tallinn,EE_0EETLL
 Virtsu,EE_0EEVIR
+Estonia - other ports,EE_0EE888
 Cork,IE_0IEORK
 Dublin,IE_0IEDUB
 Dun Laoghaire,IE_0IEDLG
@@ -245,6 +252,7 @@ Vathy Samou,EL_0GRVTH
 Volos,EL_0GRVOL
 Ydra,EL_0GRHYD
 Zakynthos,EL_0GRZTH
+Greece - other ports,EL_0GR888
 Algeciras,ES_2ESALG
 Alicante,ES_2ESALC
 Almería,ES_2ESLEI
@@ -406,9 +414,13 @@ Tremiti,IT_0ITTMT
 Trieste,IT_0ITTRS
 Venezia,IT_0ITVCE
 Vulcano Porto,IT_0ITVUL
+Italy - main ports (confidential data aggregated by Eurostat),IT_0IT88C
+Italy - other ports,IT_0IT888
 Larnaka,CY_0CYLCA
 Lemesos,CY_0CYLMS
+Cyprus - other ports,CY_0CY888
 Riga,LV_0LVRIX
+Latvia - other ports,LV_0LV888
 Klaipeda,LT_0LTKLJ
 Cirkewwa,MT_0MTCKW
 "Mgarr, Gozo",MT_0MTMGZ
@@ -424,6 +436,7 @@ Terneuzen,NL_0NLTNZ
 Vlaardingen,NL_0NLVLA
 Vlissingen,NL_0NLVLI
 Zeeland Seaports,NL_0NLZSP
+Netherlands - other ports,NL_0NL888
 Gdansk,PL_0PLGDN
 Gdynia,PL_0PLGDY
 Hel,PL_0PLHEL
@@ -431,7 +444,9 @@ Swinoujscie,PL_0PLSWI
 Funchal (Madeira),PT_0PTFNC
 "Porto Santo (Ilha de Porto Santo, Madeira)",PT_0PTPXO
 Setúbal,PT_0PTSET
+Romania - other ports,RO_0RO888
 Koper,SI_0SIKOP
+Slovenia - other ports,SI_0SI888
 Eckerö,FI_0FIECK
 Helsinki,FI_0FIHEL
 Mariehamn,FI_0FIMHQ
@@ -460,6 +475,7 @@ Varberg,SE_2SEVAG
 Västervik,SE_1SEVVK
 Visby,SE_1SEVBY
 Ystad,SE_1SEYST
+Sweden (confidential data aggregated by Eurostat),SE_9SE88C
 Aberdeen,UK_1GBABD
 Barrow-In-Furness,UK_1GBBIF
 Belfast,UK_1GBBEL
@@ -507,6 +523,7 @@ Tyne,UK_1GBTYN
 Warrenpoint,UK_1GBWPT
 Weymouth,UK_1GBWEY
 Whitehaven,UK_1GBWHV
+United Kingdom - other ports,UK_1GB888
 Bergen,NO_0NOBGO
 Borg,NO_0NOBRG
 Eigersund,NO_0NOEGD
@@ -560,3 +577,4 @@ Tekirdag,TR_2TRTEK
 Trabzon,TR_1TRTZX
 Yalova,TR_2TRYAL
 Zonguldak,TR_1TRZON
+Turkey (unknown maritime coastal area) - other ports,TR_9TR888
