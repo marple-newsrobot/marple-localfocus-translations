@@ -1,9 +1,13 @@
 localfocus_id,marple_id
-"Euro area 19","Euro area 19"
-"EU-28","EU-28"
-"European Union (current composition)","EU-28"
-"Euro area (19 countries)","Euro area 19"
-"European Union (28 countries)","EU-28"
-"European Union (27 countries)","EU-27"
-"European Union (25 countries)","EU-25"
-"European Union (15 countries)","EU-15"
+Euro area 19,Euro area 19
+EU-28,EU-28
+European Union (current composition),EU-28
+Euro area (19 countries),Euro area 19
+European Union (28 countries),EU-28
+European Union (27 countries),EU-27
+European Union (25 countries),EU-25
+European Union (15 countries),EU-15
+European Union - 28 countries,EU-28
+European Union – 27 countries,EU-27
+European Union – 25 countries,EU-25
+European Union – 15 countries,EU-15
