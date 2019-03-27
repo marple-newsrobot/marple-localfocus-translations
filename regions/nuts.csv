@@ -1,464 +1,464 @@
-"localfocus_id","marple_id"
-"Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest","NUTS_BE1"
-"Vlaams Gewest","NUTS_BE2"
-"Région wallonne","NUTS_BE3"
-"Severna i yugoiztochna Bulgaria","NUTS_BG3"
-"Yugozapadna i yuzhna tsentralna Bulgaria","NUTS_BG4"
-"Ceská republika","NUTS_CZ0"
-"Danmark","NUTS_DK0"
-"Baden-Württemberg","NUTS_DE1"
-"Bayern","NUTS_DE2"
-"Berlin","NUTS_DE3"
-"Brandenburg","NUTS_DE4"
-"Bremen","NUTS_DE5"
-"Hamburg","NUTS_DE6"
-"Hessen","NUTS_DE7"
-"Mecklenburg-Vorpommern","NUTS_DE8"
-"Niedersachsen","NUTS_DE9"
-"Nordrhein-Westfalen","NUTS_DEA"
-"Rheinland-Pfalz","NUTS_DEB"
-"Saarland","NUTS_DEC"
-"Sachsen","NUTS_DED"
-"Sachsen-Anhalt","NUTS_DEE"
-"Schleswig-Holstein","NUTS_DEF"
-"Thüringen","NUTS_DEG"
-"Eesti","NUTS_EE0"
-"Éire/Ireland","NUTS_IE0"
-"Voreia Ellada","NUTS_EL5"
-"Kentriki Ellada","NUTS_EL6"
-"Attiki","NUTS_EL3"
-"Nisia Aigaiou, Kriti","NUTS_EL4"
-"Noroeste (ES)","NUTS_ES1"
-"Noreste (ES)","NUTS_ES2"
-"Comunidad de Madrid","NUTS_ES3"
-"Centro (ES)","NUTS_ES4"
-"Este (ES)","NUTS_ES5"
-"Sur (ES)","NUTS_ES6"
-"Canarias (ES)","NUTS_ES7"
-"Île de France","NUTS_FR1"
-"Centre - Val de Loire","NUTS_FRB"
-"Bourgogne - Franche-Comté","NUTS_FRC"
-"Normandie","NUTS_FRD"
-"Nord-Pas de Calais - Picardie","NUTS_FRE"
-"Alsace - Champagne-Ardenne - Lorraine","NUTS_FRF"
-"Pays de la Loire","NUTS_FRG"
-"Bretagne","NUTS_FRH"
-"Aquitaine - Limousin - Poitou-Charentes","NUTS_FRI"
-"Languedoc-Roussillon - Midi-Pyrénées","NUTS_FRJ"
-"Auvergne - Rhône-Alpes","NUTS_FRK"
-"Provence-Alpes-Côte d'Azur","NUTS_FRL"
-"Corse","NUTS_FRM"
-"RUP FR - Régions ultrapériphériques françaises","NUTS_FRY"
-"Hrvatska","NUTS_HR0"
-"Nord-Ovest","NUTS_ITC"
-"Nord-Est","NUTS_ITH"
-"Centro (IT)","NUTS_ITI"
-"Sud","NUTS_ITF"
-"Isole","NUTS_ITG"
-"Kypros","NUTS_CY0"
-"Latvija","NUTS_LV0"
-"Lietuva","NUTS_LT0"
-"Luxembourg","NUTS_LU0"
-"Közép-Magyarország","NUTS_HU1"
-"Dunántúl","NUTS_HU2"
-"Alföld és Észak","NUTS_HU3"
-"Malta","NUTS_MT0"
-"Noord-Nederland","NUTS_NL1"
-"Oost-Nederland","NUTS_NL2"
-"West-Nederland","NUTS_NL3"
-"Zuid-Nederland","NUTS_NL4"
-"Ostösterreich","NUTS_AT1"
-"Südösterreich","NUTS_AT2"
-"Westösterreich","NUTS_AT3"
-"Makroregion Poludniowy","NUTS_PL2"
-"Makroregion Pólnocno-Zachodni","NUTS_PL4"
-"Makroregion Poludniowo-Zachodni","NUTS_PL5"
-"Makroregion Pólnocny","NUTS_PL6"
-"Makroregion Centralny","NUTS_PL7"
-"Makroregion Wschodni","NUTS_PL8"
-"Makroregion Województwo Mazowieckie","NUTS_PL9"
-"Continente","NUTS_PT1"
-"Região Autónoma dos Açores (PT)","NUTS_PT2"
-"Região Autónoma da Madeira (PT)","NUTS_PT3"
-"Macroregiunea unu","NUTS_RO1"
-"Macroregiunea doi","NUTS_RO2"
-"Macroregiunea trei","NUTS_RO3"
-"Macroregiunea patru","NUTS_RO4"
-"Slovenija","NUTS_SI0"
-"Slovensko","NUTS_SK0"
-"Manner-Suomi","NUTS_FI1"
-"Åland","NUTS_FI2"
-"Östra Sverige","NUTS_SE1"
-"Södra Sverige","NUTS_SE2"
-"Norra Sverige","NUTS_SE3"
-"North East (UK)","NUTS_UKC"
-"North West (UK)","NUTS_UKD"
-"Yorkshire and The Humber","NUTS_UKE"
-"East Midlands (UK)","NUTS_UKF"
-"West Midlands (UK)","NUTS_UKG"
-"East of England","NUTS_UKH"
-"London","NUTS_UKI"
-"South East (UK)","NUTS_UKJ"
-"South West (UK)","NUTS_UKK"
-"Wales","NUTS_UKL"
-"Scotland","NUTS_UKM"
-"Northern Ireland (UK)","NUTS_UKN"
-"Ísland","NUTS_IS0"
-"Norge","NUTS_NO0"
-"Schweiz/Suisse/Svizzera","NUTS_CH0"
-"Crna Gora","NUTS_ME0"
-"Severna Makedonija","NUTS_MK0"
-"Srbija - sever","NUTS_RS1"
-"Srbija - jug","NUTS_RS2"
-"Istanbul","NUTS_TR1"
-"Bati Marmara","NUTS_TR2"
-"Ege","NUTS_TR3"
-"Dogu Marmara","NUTS_TR4"
-"Bati Anadolu","NUTS_TR5"
-"Akdeniz","NUTS_TR6"
-"Orta Anadolu","NUTS_TR7"
-"Bati Karadeniz","NUTS_TR8"
-"Dogu Karadeniz","NUTS_TR9"
-"Kuzeydogu Anadolu","NUTS_TRA"
-"Ortadogu Anadolu","NUTS_TRB"
-"Güneydogu Anadolu","NUTS_TRC"
-"European Union - 28 countries","NUTS_EU28"
-"European Union - 15 countries (1995-2004)","NUTS_EU15"
-"Euro area (19 countries)","NUTS_EA19"
-"Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest","NUTS_BE10"
-"Prov. Antwerpen","NUTS_BE21"
-"Prov. Limburg (BE)","NUTS_BE22"
-"Prov. Oost-Vlaanderen","NUTS_BE23"
-"Prov. Vlaams-Brabant","NUTS_BE24"
-"Prov. West-Vlaanderen","NUTS_BE25"
-"Prov. Brabant Wallon","NUTS_BE31"
-"Prov. Hainaut","NUTS_BE32"
-"Prov. Liège","NUTS_BE33"
-"Prov. Luxembourg (BE)","NUTS_BE34"
-"Prov. Namur","NUTS_BE35"
-"Severozapaden","NUTS_BG31"
-"Severen tsentralen","NUTS_BG32"
-"Severoiztochen","NUTS_BG33"
-"Yugoiztochen","NUTS_BG34"
-"Yugozapaden","NUTS_BG41"
-"Yuzhen tsentralen","NUTS_BG42"
-"Praha","NUTS_CZ01"
-"Strední Cechy","NUTS_CZ02"
-"Jihozápad","NUTS_CZ03"
-"Severozápad","NUTS_CZ04"
-"Severovýchod","NUTS_CZ05"
-"Jihovýchod","NUTS_CZ06"
-"Strední Morava","NUTS_CZ07"
-"Moravskoslezsko","NUTS_CZ08"
-"Hovedstaden","NUTS_DK01"
-"Sjælland","NUTS_DK02"
-"Syddanmark","NUTS_DK03"
-"Midtjylland","NUTS_DK04"
-"Nordjylland","NUTS_DK05"
-"Stuttgart","NUTS_DE11"
-"Karlsruhe","NUTS_DE12"
-"Freiburg","NUTS_DE13"
-"Tübingen","NUTS_DE14"
-"Oberbayern","NUTS_DE21"
-"Niederbayern","NUTS_DE22"
-"Oberpfalz","NUTS_DE23"
-"Oberfranken","NUTS_DE24"
-"Mittelfranken","NUTS_DE25"
-"Unterfranken","NUTS_DE26"
-"Schwaben","NUTS_DE27"
-"Berlin","NUTS_DE30"
-"Brandenburg","NUTS_DE40"
-"Bremen","NUTS_DE50"
-"Hamburg","NUTS_DE60"
-"Darmstadt","NUTS_DE71"
-"Gießen","NUTS_DE72"
-"Kassel","NUTS_DE73"
-"Mecklenburg-Vorpommern","NUTS_DE80"
-"Braunschweig","NUTS_DE91"
-"Hannover","NUTS_DE92"
-"Lüneburg","NUTS_DE93"
-"Weser-Ems","NUTS_DE94"
-"Düsseldorf","NUTS_DEA1"
-"Köln","NUTS_DEA2"
-"Münster","NUTS_DEA3"
-"Detmold","NUTS_DEA4"
-"Arnsberg","NUTS_DEA5"
-"Koblenz","NUTS_DEB1"
-"Trier","NUTS_DEB2"
-"Rheinhessen-Pfalz","NUTS_DEB3"
-"Saarland","NUTS_DEC0"
-"Dresden","NUTS_DED2"
-"Chemnitz","NUTS_DED4"
-"Leipzig","NUTS_DED5"
-"Sachsen-Anhalt","NUTS_DEE0"
-"Schleswig-Holstein","NUTS_DEF0"
-"Thüringen","NUTS_DEG0"
-"Eesti","NUTS_EE00"
-"Northern and Western","NUTS_IE04"
-"Southern","NUTS_IE05"
-"Eastern and Midland","NUTS_IE06"
-"Border, Midland and Western (NUTS 2013)","NUTS_IE01"
-"Southern and Eastern (NUTS 2013)","NUTS_IE02"
-"Anatoliki Makedonia, Thraki","NUTS_EL51"
-"Kentriki Makedonia","NUTS_EL52"
-"Dytiki Makedonia","NUTS_EL53"
-"Ipeiros","NUTS_EL54"
-"Thessalia","NUTS_EL61"
-"Ionia Nisia","NUTS_EL62"
-"Dytiki Ellada","NUTS_EL63"
-"Sterea Ellada","NUTS_EL64"
-"Peloponnisos","NUTS_EL65"
-"Attiki","NUTS_EL30"
-"Voreio Aigaio","NUTS_EL41"
-"Notio Aigaio","NUTS_EL42"
-"Kriti","NUTS_EL43"
-"Galicia","NUTS_ES11"
-"Principado de Asturias","NUTS_ES12"
-"Cantabria","NUTS_ES13"
-"País Vasco","NUTS_ES21"
-"Comunidad Foral de Navarra","NUTS_ES22"
-"La Rioja","NUTS_ES23"
-"Aragón","NUTS_ES24"
-"Comunidad de Madrid","NUTS_ES30"
-"Castilla y León","NUTS_ES41"
-"Castilla-la Mancha","NUTS_ES42"
-"Extremadura","NUTS_ES43"
-"Cataluña","NUTS_ES51"
-"Comunidad Valenciana","NUTS_ES52"
-"Illes Balears","NUTS_ES53"
-"Andalucía","NUTS_ES61"
-"Región de Murcia","NUTS_ES62"
-"Ciudad Autónoma de Ceuta (ES)","NUTS_ES63"
-"Ciudad Autónoma de Melilla (ES)","NUTS_ES64"
-"Canarias (ES)","NUTS_ES70"
-"Île de France","NUTS_FR10"
-"Centre - Val de Loire","NUTS_FRB0"
-"Bourgogne","NUTS_FRC1"
-"Franche-Comté","NUTS_FRC2"
-"Basse-Normandie","NUTS_FRD1"
-"Haute-Normandie","NUTS_FRD2"
-"Nord-Pas de Calais","NUTS_FRE1"
-"Picardie","NUTS_FRE2"
-"Alsace","NUTS_FRF1"
-"Champagne-Ardenne","NUTS_FRF2"
-"Lorraine","NUTS_FRF3"
-"Pays de la Loire","NUTS_FRG0"
-"Bretagne","NUTS_FRH0"
-"Aquitaine","NUTS_FRI1"
-"Limousin","NUTS_FRI2"
-"Poitou-Charentes","NUTS_FRI3"
-"Languedoc-Roussillon","NUTS_FRJ1"
-"Midi-Pyrénées","NUTS_FRJ2"
-"Auvergne","NUTS_FRK1"
-"Rhône-Alpes","NUTS_FRK2"
-"Provence-Alpes-Côte d'Azur","NUTS_FRL0"
-"Corse","NUTS_FRM0"
-"Guadeloupe","NUTS_FRY1"
-"Martinique","NUTS_FRY2"
-"Guyane","NUTS_FRY3"
-"La Réunion","NUTS_FRY4"
-"Jadranska Hrvatska","NUTS_HR03"
-"Kontinentalna Hrvatska","NUTS_HR04"
-"Piemonte","NUTS_ITC1"
-"Valle d'Aosta/Vallée d'Aoste","NUTS_ITC2"
-"Liguria","NUTS_ITC3"
-"Lombardia","NUTS_ITC4"
-"Provincia Autonoma di Bolzano/Bozen","NUTS_ITH1"
-"Provincia Autonoma di Trento","NUTS_ITH2"
-"Veneto","NUTS_ITH3"
-"Friuli-Venezia Giulia","NUTS_ITH4"
-"Emilia-Romagna","NUTS_ITH5"
-"Toscana","NUTS_ITI1"
-"Umbria","NUTS_ITI2"
-"Marche","NUTS_ITI3"
-"Lazio","NUTS_ITI4"
-"Abruzzo","NUTS_ITF1"
-"Molise","NUTS_ITF2"
-"Campania","NUTS_ITF3"
-"Puglia","NUTS_ITF4"
-"Basilicata","NUTS_ITF5"
-"Calabria","NUTS_ITF6"
-"Sicilia","NUTS_ITG1"
-"Sardegna","NUTS_ITG2"
-"Kypros","NUTS_CY00"
-"Latvija","NUTS_LV00"
-"Sostines regionas","NUTS_LT01"
-"Vidurio ir vakaru Lietuvos regionas","NUTS_LT02"
-"Lietuva (NUTS 2013)","NUTS_LT00"
-"Luxembourg","NUTS_LU00"
-"Budapest","NUTS_HU11"
-"Pest","NUTS_HU12"
-"Közép-Magyarország (NUTS 2013)","NUTS_HU10"
-"Közép-Dunántúl","NUTS_HU21"
-"Nyugat-Dunántúl","NUTS_HU22"
-"Dél-Dunántúl","NUTS_HU23"
-"Észak-Magyarország","NUTS_HU31"
-"Észak-Alföld","NUTS_HU32"
-"Dél-Alföld","NUTS_HU33"
-"Malta","NUTS_MT00"
-"Groningen","NUTS_NL11"
-"Friesland (NL)","NUTS_NL12"
-"Drenthe","NUTS_NL13"
-"Overijssel","NUTS_NL21"
-"Gelderland","NUTS_NL22"
-"Flevoland","NUTS_NL23"
-"Utrecht","NUTS_NL31"
-"Noord-Holland","NUTS_NL32"
-"Zuid-Holland","NUTS_NL33"
-"Zeeland","NUTS_NL34"
-"Noord-Brabant","NUTS_NL41"
-"Limburg (NL)","NUTS_NL42"
-"Burgenland (AT)","NUTS_AT11"
-"Niederösterreich","NUTS_AT12"
-"Wien","NUTS_AT13"
-"Kärnten","NUTS_AT21"
-"Steiermark","NUTS_AT22"
-"Oberösterreich","NUTS_AT31"
-"Salzburg","NUTS_AT32"
-"Tirol","NUTS_AT33"
-"Vorarlberg","NUTS_AT34"
-"Malopolskie","NUTS_PL21"
-"Slaskie","NUTS_PL22"
-"Wielkopolskie","NUTS_PL41"
-"Zachodniopomorskie","NUTS_PL42"
-"Lubuskie","NUTS_PL43"
-"Dolnoslaskie","NUTS_PL51"
-"Opolskie","NUTS_PL52"
-"Kujawsko-Pomorskie","NUTS_PL61"
-"Warminsko-Mazurskie","NUTS_PL62"
-"Pomorskie","NUTS_PL63"
-"Lódzkie","NUTS_PL71"
-"Swietokrzyskie","NUTS_PL72"
-"Lubelskie","NUTS_PL81"
-"Podkarpackie","NUTS_PL82"
-"Podlaskie","NUTS_PL84"
-"Warszawski stoleczny","NUTS_PL91"
-"Mazowiecki regionalny","NUTS_PL92"
-"Norte","NUTS_PT11"
-"Algarve","NUTS_PT15"
-"Centro (PT)","NUTS_PT16"
-"Área Metropolitana de Lisboa","NUTS_PT17"
-"Alentejo","NUTS_PT18"
-"Região Autónoma dos Açores (PT)","NUTS_PT20"
-"Região Autónoma da Madeira (PT)","NUTS_PT30"
-"Nord-Vest","NUTS_RO11"
-"Centru","NUTS_RO12"
-"Nord-Est","NUTS_RO21"
-"Sud-Est","NUTS_RO22"
-"Sud - Muntenia","NUTS_RO31"
-"Bucuresti - Ilfov","NUTS_RO32"
-"Sud-Vest Oltenia","NUTS_RO41"
-"Vest","NUTS_RO42"
-"Vzhodna Slovenija","NUTS_SI03"
-"Vzhodna Slovenija (NUTS 2010)","NUTS_SI01"
-"Zahodna Slovenija","NUTS_SI04"
-"Zahodna Slovenija (NUTS 2010)","NUTS_SI02"
-"Bratislavský kraj","NUTS_SK01"
-"Západné Slovensko","NUTS_SK02"
-"Stredné Slovensko","NUTS_SK03"
-"Východné Slovensko","NUTS_SK04"
-"Länsi-Suomi","NUTS_FI19"
-"Helsinki-Uusimaa","NUTS_FI1B"
-"Etelä-Suomi","NUTS_FI1C"
-"Pohjois- ja Itä-Suomi","NUTS_FI1D"
-"Åland","NUTS_FI20"
-"Stockholm","NUTS_SE11"
-"Östra Mellansverige","NUTS_SE12"
-"Småland med öarna","NUTS_SE21"
-"Sydsverige","NUTS_SE22"
-"Västsverige","NUTS_SE23"
-"Norra Mellansverige","NUTS_SE31"
-"Mellersta Norrland","NUTS_SE32"
-"Övre Norrland","NUTS_SE33"
-"Tees Valley and Durham","NUTS_UKC1"
-"Northumberland and Tyne and Wear","NUTS_UKC2"
-"Cumbria","NUTS_UKD1"
-"Greater Manchester","NUTS_UKD3"
-"Lancashire","NUTS_UKD4"
-"Cheshire","NUTS_UKD6"
-"Merseyside","NUTS_UKD7"
-"East Yorkshire and Northern Lincolnshire","NUTS_UKE1"
-"North Yorkshire","NUTS_UKE2"
-"South Yorkshire","NUTS_UKE3"
-"West Yorkshire","NUTS_UKE4"
-"Derbyshire and Nottinghamshire","NUTS_UKF1"
-"Leicestershire, Rutland and Northamptonshire","NUTS_UKF2"
-"Lincolnshire","NUTS_UKF3"
-"Herefordshire, Worcestershire and Warwickshire","NUTS_UKG1"
-"Shropshire and Staffordshire","NUTS_UKG2"
-"West Midlands","NUTS_UKG3"
-"East Anglia","NUTS_UKH1"
-"Bedfordshire and Hertfordshire","NUTS_UKH2"
-"Essex","NUTS_UKH3"
-"Inner London (NUTS 2010)","NUTS_UKI1"
-"Outer London (NUTS 2010)","NUTS_UKI2"
-"Inner London - West","NUTS_UKI3"
-"Inner London - East","NUTS_UKI4"
-"Outer London - East and North East","NUTS_UKI5"
-"Outer London - South","NUTS_UKI6"
-"Outer London - West and North West","NUTS_UKI7"
-"Berkshire, Buckinghamshire and Oxfordshire","NUTS_UKJ1"
-"Surrey, East and West Sussex","NUTS_UKJ2"
-"Hampshire and Isle of Wight","NUTS_UKJ3"
-"Kent","NUTS_UKJ4"
-"Gloucestershire, Wiltshire and Bristol/Bath area","NUTS_UKK1"
-"Dorset and Somerset","NUTS_UKK2"
-"Cornwall and Isles of Scilly","NUTS_UKK3"
-"Devon","NUTS_UKK4"
-"West Wales and The Valleys","NUTS_UKL1"
-"East Wales","NUTS_UKL2"
-"Eastern Scotland (NUTS 2013)","NUTS_UKM2"
-"South Western Scotland (NUTS 2013)","NUTS_UKM3"
-"North Eastern Scotland","NUTS_UKM5"
-"Highlands and Islands","NUTS_UKM6"
-"Eastern Scotland","NUTS_UKM7"
-"West Central Scotland","NUTS_UKM8"
-"Southern Scotland","NUTS_UKM9"
-"Northern Ireland (UK)","NUTS_UKN0"
-"Ísland","NUTS_IS00"
-"Oslo og Akershus","NUTS_NO01"
-"Hedmark og Oppland","NUTS_NO02"
-"Sør-Østlandet","NUTS_NO03"
-"Agder og Rogaland","NUTS_NO04"
-"Vestlandet","NUTS_NO05"
-"Trøndelag","NUTS_NO06"
-"Nord-Norge","NUTS_NO07"
-"Région lémanique","NUTS_CH01"
-"Espace Mittelland","NUTS_CH02"
-"Nordwestschweiz","NUTS_CH03"
-"Zürich","NUTS_CH04"
-"Ostschweiz","NUTS_CH05"
-"Zentralschweiz","NUTS_CH06"
-"Ticino","NUTS_CH07"
-"Crna Gora","NUTS_ME00"
-"Severna Makedonija","NUTS_MK00"
-"Beogradski region","NUTS_RS11"
-"Region Vojvodine","NUTS_RS12"
-"Region Sumadije i Zapadne Srbije","NUTS_RS21"
-"Region Juzne i Istocne Srbije","NUTS_RS22"
-"Istanbul","NUTS_TR10"
-"Tekirdag, Edirne, Kirklareli","NUTS_TR21"
-"Balikesir, Çanakkale","NUTS_TR22"
-"Izmir","NUTS_TR31"
-"Aydin, Denizli, Mugla","NUTS_TR32"
-"Manisa, Afyonkarahisar, Kütahya, Usak","NUTS_TR33"
-"Bursa, Eskisehir, Bilecik","NUTS_TR41"
-"Kocaeli, Sakarya, Düzce, Bolu, Yalova","NUTS_TR42"
-"Ankara","NUTS_TR51"
-"Konya, Karaman","NUTS_TR52"
-"Antalya, Isparta, Burdur","NUTS_TR61"
-"Adana, Mersin","NUTS_TR62"
-"Hatay, Kahramanmaras, Osmaniye","NUTS_TR63"
-"Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir","NUTS_TR71"
-"Kayseri, Sivas, Yozgat","NUTS_TR72"
-"Zonguldak, Karabük, Bartin","NUTS_TR81"
-"Kastamonu, Çankiri, Sinop","NUTS_TR82"
-"Samsun, Tokat, Çorum, Amasya","NUTS_TR83"
-"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüshane","NUTS_TR90"
-"Erzurum, Erzincan, Bayburt","NUTS_TRA1"
-"Agri, Kars, Igdir, Ardahan","NUTS_TRA2"
-"Malatya, Elazig, Bingöl, Tunceli","NUTS_TRB1"
-"Van, Mus, Bitlis, Hakkari","NUTS_TRB2"
-"Gaziantep, Adiyaman, Kilis","NUTS_TRC1"
-"Sanliurfa, Diyarbakir","NUTS_TRC2"
-"Mardin, Batman, Sirnak, Siirt","NUTS_TRC3"
+localfocus_id,marple_id
+Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,NUTS_BE1
+Vlaams Gewest,NUTS_BE2
+Région wallonne,NUTS_BE3
+Severna i yugoiztochna Bulgaria,NUTS_BG3
+Yugozapadna i yuzhna tsentralna Bulgaria,NUTS_BG4
+Ceská republika,NUTS_CZ0
+Danmark,NUTS_DK0
+Baden-Württemberg,NUTS_DE1
+Bayern,NUTS_DE2
+Berlin,NUTS_DE3
+Brandenburg,NUTS_DE4
+Bremen,NUTS_DE5
+Hamburg,NUTS_DE6
+Hessen,NUTS_DE7
+Mecklenburg-Vorpommern,NUTS_DE8
+Niedersachsen,NUTS_DE9
+Nordrhein-Westfalen,NUTS_DEA
+Rheinland-Pfalz,NUTS_DEB
+Saarland,NUTS_DEC
+Sachsen,NUTS_DED
+Sachsen-Anhalt,NUTS_DEE
+Schleswig-Holstein,NUTS_DEF
+Thüringen,NUTS_DEG
+Eesti,NUTS_EE0
+Éire/Ireland,NUTS_IE0
+Voreia Ellada,NUTS_EL5
+Kentriki Ellada,NUTS_EL6
+Attiki,NUTS_EL3
+"Nisia Aigaiou, Kriti",NUTS_EL4
+Noroeste (ES),NUTS_ES1
+Noreste (ES),NUTS_ES2
+Comunidad de Madrid,NUTS_ES3
+Centro (ES),NUTS_ES4
+Este (ES),NUTS_ES5
+Sur (ES),NUTS_ES6
+Canarias (ES),NUTS_ES7
+Île de France,NUTS_FR1
+Centre - Val de Loire,NUTS_FRB
+Bourgogne - Franche-Comté,NUTS_FRC
+Normandie,NUTS_FRD
+Nord-Pas de Calais - Picardie,NUTS_FRE
+Alsace - Champagne-Ardenne - Lorraine,NUTS_FRF
+Pays de la Loire,NUTS_FRG
+Bretagne,NUTS_FRH
+Aquitaine - Limousin - Poitou-Charentes,NUTS_FRI
+Languedoc-Roussillon - Midi-Pyrénées,NUTS_FRJ
+Auvergne - Rhône-Alpes,NUTS_FRK
+Provence-Alpes-Côte d'Azur,NUTS_FRL
+Corse,NUTS_FRM
+RUP FR - Régions ultrapériphériques françaises,NUTS_FRY
+Hrvatska,NUTS_HR0
+Nord-Ovest,NUTS_ITC
+Nord-Est,NUTS_ITH
+Centro (IT),NUTS_ITI
+Sud,NUTS_ITF
+Isole,NUTS_ITG
+Kypros,NUTS_CY0
+Latvija,NUTS_LV0
+Lietuva,NUTS_LT0
+Luxembourg,NUTS_LU0
+Közép-Magyarország,NUTS_HU1
+Dunántúl,NUTS_HU2
+Alföld és Észak,NUTS_HU3
+Malta,NUTS_MT0
+Noord-Nederland,NUTS_NL1
+Oost-Nederland,NUTS_NL2
+West-Nederland,NUTS_NL3
+Zuid-Nederland,NUTS_NL4
+Ostösterreich,NUTS_AT1
+Südösterreich,NUTS_AT2
+Westösterreich,NUTS_AT3
+Makroregion Poludniowy,NUTS_PL2
+Makroregion Pólnocno-Zachodni,NUTS_PL4
+Makroregion Poludniowo-Zachodni,NUTS_PL5
+Makroregion Pólnocny,NUTS_PL6
+Makroregion Centralny,NUTS_PL7
+Makroregion Wschodni,NUTS_PL8
+Makroregion Województwo Mazowieckie,NUTS_PL9
+Continente,NUTS_PT1
+Região Autónoma dos Açores (PT),NUTS_PT2
+Região Autónoma da Madeira (PT),NUTS_PT3
+Macroregiunea unu,NUTS_RO1
+Macroregiunea doi,NUTS_RO2
+Macroregiunea trei,NUTS_RO3
+Macroregiunea patru,NUTS_RO4
+Slovenija,NUTS_SI0
+Slovensko,NUTS_SK0
+Manner-Suomi,NUTS_FI1
+Åland,NUTS_FI2
+Östra Sverige,NUTS_SE1
+Södra Sverige,NUTS_SE2
+Norra Sverige,NUTS_SE3
+North East (UK),NUTS_UKC
+North West (UK),NUTS_UKD
+Yorkshire and The Humber,NUTS_UKE
+East Midlands (UK),NUTS_UKF
+West Midlands (UK),NUTS_UKG
+East of England,NUTS_UKH
+London,NUTS_UKI
+South East (UK),NUTS_UKJ
+South West (UK),NUTS_UKK
+Wales,NUTS_UKL
+Scotland,NUTS_UKM
+Northern Ireland (UK),NUTS_UKN
+Ísland,NUTS_IS0
+Norge,NUTS_NO0
+Schweiz/Suisse/Svizzera,NUTS_CH0
+Crna Gora,NUTS_ME0
+Severna Makedonija,NUTS_MK0
+Srbija - sever,NUTS_RS1
+Srbija - jug,NUTS_RS2
+Istanbul,NUTS_TR1
+Bati Marmara,NUTS_TR2
+Ege,NUTS_TR3
+Dogu Marmara,NUTS_TR4
+Bati Anadolu,NUTS_TR5
+Akdeniz,NUTS_TR6
+Orta Anadolu,NUTS_TR7
+Bati Karadeniz,NUTS_TR8
+Dogu Karadeniz,NUTS_TR9
+Kuzeydogu Anadolu,NUTS_TRA
+Ortadogu Anadolu,NUTS_TRB
+Güneydogu Anadolu,NUTS_TRC
+Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,NUTS_BE10
+Prov. Antwerpen,NUTS_BE21
+Prov. Limburg (BE),NUTS_BE22
+Prov. Oost-Vlaanderen,NUTS_BE23
+Prov. Vlaams-Brabant,NUTS_BE24
+Prov. West-Vlaanderen,NUTS_BE25
+Prov. Brabant Wallon,NUTS_BE31
+Prov. Hainaut,NUTS_BE32
+Prov. Liège,NUTS_BE33
+Prov. Luxembourg (BE),NUTS_BE34
+Prov. Namur,NUTS_BE35
+Severozapaden,NUTS_BG31
+Severen tsentralen,NUTS_BG32
+Severoiztochen,NUTS_BG33
+Yugoiztochen,NUTS_BG34
+Yugozapaden,NUTS_BG41
+Yuzhen tsentralen,NUTS_BG42
+Praha,NUTS_CZ01
+Strední Cechy,NUTS_CZ02
+Jihozápad,NUTS_CZ03
+Severozápad,NUTS_CZ04
+Severovýchod,NUTS_CZ05
+Jihovýchod,NUTS_CZ06
+Strední Morava,NUTS_CZ07
+Moravskoslezsko,NUTS_CZ08
+Hovedstaden,NUTS_DK01
+Sjælland,NUTS_DK02
+Syddanmark,NUTS_DK03
+Midtjylland,NUTS_DK04
+Nordjylland,NUTS_DK05
+Stuttgart,NUTS_DE11
+Karlsruhe,NUTS_DE12
+Freiburg,NUTS_DE13
+Tübingen,NUTS_DE14
+Oberbayern,NUTS_DE21
+Niederbayern,NUTS_DE22
+Oberpfalz,NUTS_DE23
+Oberfranken,NUTS_DE24
+Mittelfranken,NUTS_DE25
+Unterfranken,NUTS_DE26
+Schwaben,NUTS_DE27
+Berlin,NUTS_DE30
+Brandenburg,NUTS_DE40
+Bremen,NUTS_DE50
+Hamburg,NUTS_DE60
+Darmstadt,NUTS_DE71
+Gießen,NUTS_DE72
+Kassel,NUTS_DE73
+Mecklenburg-Vorpommern,NUTS_DE80
+Braunschweig,NUTS_DE91
+Hannover,NUTS_DE92
+Lüneburg,NUTS_DE93
+Weser-Ems,NUTS_DE94
+Düsseldorf,NUTS_DEA1
+Köln,NUTS_DEA2
+Münster,NUTS_DEA3
+Detmold,NUTS_DEA4
+Arnsberg,NUTS_DEA5
+Koblenz,NUTS_DEB1
+Trier,NUTS_DEB2
+Rheinhessen-Pfalz,NUTS_DEB3
+Saarland,NUTS_DEC0
+Dresden,NUTS_DED2
+Chemnitz,NUTS_DED4
+Leipzig,NUTS_DED5
+Sachsen-Anhalt,NUTS_DEE0
+Schleswig-Holstein,NUTS_DEF0
+Thüringen,NUTS_DEG0
+Eesti,NUTS_EE00
+Northern and Western,NUTS_IE04
+Southern,NUTS_IE05
+Eastern and Midland,NUTS_IE06
+"Border, Midland and Western (NUTS 2013)",NUTS_IE01
+Southern and Eastern (NUTS 2013),NUTS_IE02
+"Anatoliki Makedonia, Thraki",NUTS_EL51
+Kentriki Makedonia,NUTS_EL52
+Dytiki Makedonia,NUTS_EL53
+Ipeiros,NUTS_EL54
+Thessalia,NUTS_EL61
+Ionia Nisia,NUTS_EL62
+Dytiki Ellada,NUTS_EL63
+Sterea Ellada,NUTS_EL64
+Peloponnisos,NUTS_EL65
+Attiki,NUTS_EL30
+Voreio Aigaio,NUTS_EL41
+Notio Aigaio,NUTS_EL42
+Kriti,NUTS_EL43
+Galicia,NUTS_ES11
+Principado de Asturias,NUTS_ES12
+Cantabria,NUTS_ES13
+País Vasco,NUTS_ES21
+Comunidad Foral de Navarra,NUTS_ES22
+La Rioja,NUTS_ES23
+Aragón,NUTS_ES24
+Comunidad de Madrid,NUTS_ES30
+Castilla y León,NUTS_ES41
+Castilla-la Mancha,NUTS_ES42
+Extremadura,NUTS_ES43
+Cataluña,NUTS_ES51
+Comunidad Valenciana,NUTS_ES52
+Illes Balears,NUTS_ES53
+Andalucía,NUTS_ES61
+Región de Murcia,NUTS_ES62
+Ciudad Autónoma de Ceuta (ES),NUTS_ES63
+Ciudad Autónoma de Melilla (ES),NUTS_ES64
+Canarias (ES),NUTS_ES70
+Île de France,NUTS_FR10
+Centre - Val de Loire,NUTS_FRB0
+Bourgogne,NUTS_FRC1
+Franche-Comté,NUTS_FRC2
+Basse-Normandie,NUTS_FRD1
+Haute-Normandie,NUTS_FRD2
+Nord-Pas de Calais,NUTS_FRE1
+Picardie,NUTS_FRE2
+Alsace,NUTS_FRF1
+Champagne-Ardenne,NUTS_FRF2
+Lorraine,NUTS_FRF3
+Pays de la Loire,NUTS_FRG0
+Bretagne,NUTS_FRH0
+Aquitaine,NUTS_FRI1
+Limousin,NUTS_FRI2
+Poitou-Charentes,NUTS_FRI3
+Languedoc-Roussillon,NUTS_FRJ1
+Midi-Pyrénées,NUTS_FRJ2
+Auvergne,NUTS_FRK1
+Rhône-Alpes,NUTS_FRK2
+Provence-Alpes-Côte d'Azur,NUTS_FRL0
+Corse,NUTS_FRM0
+Guadeloupe,NUTS_FRY1
+Martinique,NUTS_FRY2
+Guyane,NUTS_FRY3
+La Réunion,NUTS_FRY4
+Jadranska Hrvatska,NUTS_HR03
+Kontinentalna Hrvatska,NUTS_HR04
+Piemonte,NUTS_ITC1
+Valle d'Aosta/Vallée d'Aoste,NUTS_ITC2
+Liguria,NUTS_ITC3
+Lombardia,NUTS_ITC4
+Provincia Autonoma di Bolzano/Bozen,NUTS_ITH1
+Provincia Autonoma di Trento,NUTS_ITH2
+Veneto,NUTS_ITH3
+Friuli-Venezia Giulia,NUTS_ITH4
+Emilia-Romagna,NUTS_ITH5
+Toscana,NUTS_ITI1
+Umbria,NUTS_ITI2
+Marche,NUTS_ITI3
+Lazio,NUTS_ITI4
+Abruzzo,NUTS_ITF1
+Molise,NUTS_ITF2
+Campania,NUTS_ITF3
+Puglia,NUTS_ITF4
+Basilicata,NUTS_ITF5
+Calabria,NUTS_ITF6
+Sicilia,NUTS_ITG1
+Sardegna,NUTS_ITG2
+Kypros,NUTS_CY00
+Latvija,NUTS_LV00
+Sostines regionas,NUTS_LT01
+Vidurio ir vakaru Lietuvos regionas,NUTS_LT02
+Lietuva (NUTS 2013),NUTS_LT00
+Luxembourg,NUTS_LU00
+Budapest,NUTS_HU11
+Pest,NUTS_HU12
+Közép-Magyarország (NUTS 2013),NUTS_HU10
+Közép-Dunántúl,NUTS_HU21
+Nyugat-Dunántúl,NUTS_HU22
+Dél-Dunántúl,NUTS_HU23
+Észak-Magyarország,NUTS_HU31
+Észak-Alföld,NUTS_HU32
+Dél-Alföld,NUTS_HU33
+Malta,NUTS_MT00
+Groningen,NUTS_NL11
+Friesland (NL),NUTS_NL12
+Drenthe,NUTS_NL13
+Overijssel,NUTS_NL21
+Gelderland,NUTS_NL22
+Flevoland,NUTS_NL23
+Utrecht,NUTS_NL31
+Noord-Holland,NUTS_NL32
+Zuid-Holland,NUTS_NL33
+Zeeland,NUTS_NL34
+Noord-Brabant,NUTS_NL41
+Limburg (NL),NUTS_NL42
+Burgenland (AT),NUTS_AT11
+Niederösterreich,NUTS_AT12
+Wien,NUTS_AT13
+Kärnten,NUTS_AT21
+Steiermark,NUTS_AT22
+Oberösterreich,NUTS_AT31
+Salzburg,NUTS_AT32
+Tirol,NUTS_AT33
+Vorarlberg,NUTS_AT34
+Malopolskie,NUTS_PL21
+Slaskie,NUTS_PL22
+Wielkopolskie,NUTS_PL41
+Zachodniopomorskie,NUTS_PL42
+Lubuskie,NUTS_PL43
+Dolnoslaskie,NUTS_PL51
+Opolskie,NUTS_PL52
+Kujawsko-Pomorskie,NUTS_PL61
+Warminsko-Mazurskie,NUTS_PL62
+Pomorskie,NUTS_PL63
+Lódzkie,NUTS_PL71
+Swietokrzyskie,NUTS_PL72
+Lubelskie,NUTS_PL81
+Podkarpackie,NUTS_PL82
+Podlaskie,NUTS_PL84
+Warszawski stoleczny,NUTS_PL91
+Mazowiecki regionalny,NUTS_PL92
+Norte,NUTS_PT11
+Algarve,NUTS_PT15
+Centro (PT),NUTS_PT16
+Área Metropolitana de Lisboa,NUTS_PT17
+Alentejo,NUTS_PT18
+Região Autónoma dos Açores (PT),NUTS_PT20
+Região Autónoma da Madeira (PT),NUTS_PT30
+Nord-Vest,NUTS_RO11
+Centru,NUTS_RO12
+Nord-Est,NUTS_RO21
+Sud-Est,NUTS_RO22
+Sud - Muntenia,NUTS_RO31
+Bucuresti - Ilfov,NUTS_RO32
+Sud-Vest Oltenia,NUTS_RO41
+Vest,NUTS_RO42
+Vzhodna Slovenija,NUTS_SI03
+Vzhodna Slovenija (NUTS 2010),NUTS_SI01
+Zahodna Slovenija,NUTS_SI04
+Zahodna Slovenija (NUTS 2010),NUTS_SI02
+Bratislavský kraj,NUTS_SK01
+Západné Slovensko,NUTS_SK02
+Stredné Slovensko,NUTS_SK03
+Východné Slovensko,NUTS_SK04
+Länsi-Suomi,NUTS_FI19
+Helsinki-Uusimaa,NUTS_FI1B
+Etelä-Suomi,NUTS_FI1C
+Pohjois- ja Itä-Suomi,NUTS_FI1D
+Åland,NUTS_FI20
+Stockholm,NUTS_SE11
+Östra Mellansverige,NUTS_SE12
+Småland med öarna,NUTS_SE21
+Sydsverige,NUTS_SE22
+Västsverige,NUTS_SE23
+Norra Mellansverige,NUTS_SE31
+Mellersta Norrland,NUTS_SE32
+Övre Norrland,NUTS_SE33
+Tees Valley and Durham,NUTS_UKC1
+Northumberland and Tyne and Wear,NUTS_UKC2
+Cumbria,NUTS_UKD1
+Greater Manchester,NUTS_UKD3
+Lancashire,NUTS_UKD4
+Cheshire,NUTS_UKD6
+Merseyside,NUTS_UKD7
+East Yorkshire and Northern Lincolnshire,NUTS_UKE1
+North Yorkshire,NUTS_UKE2
+South Yorkshire,NUTS_UKE3
+West Yorkshire,NUTS_UKE4
+Derbyshire and Nottinghamshire,NUTS_UKF1
+"Leicestershire, Rutland and Northamptonshire",NUTS_UKF2
+Lincolnshire,NUTS_UKF3
+"Herefordshire, Worcestershire and Warwickshire",NUTS_UKG1
+Shropshire and Staffordshire,NUTS_UKG2
+West Midlands,NUTS_UKG3
+East Anglia,NUTS_UKH1
+Bedfordshire and Hertfordshire,NUTS_UKH2
+Essex,NUTS_UKH3
+Inner London (NUTS 2010),NUTS_UKI1
+Outer London (NUTS 2010),NUTS_UKI2
+Inner London - West,NUTS_UKI3
+Inner London - East,NUTS_UKI4
+Outer London - East and North East,NUTS_UKI5
+Outer London - South,NUTS_UKI6
+Outer London - West and North West,NUTS_UKI7
+"Berkshire, Buckinghamshire and Oxfordshire",NUTS_UKJ1
+"Surrey, East and West Sussex",NUTS_UKJ2
+Hampshire and Isle of Wight,NUTS_UKJ3
+Kent,NUTS_UKJ4
+"Gloucestershire, Wiltshire and Bristol/Bath area",NUTS_UKK1
+Dorset and Somerset,NUTS_UKK2
+Cornwall and Isles of Scilly,NUTS_UKK3
+Devon,NUTS_UKK4
+West Wales and The Valleys,NUTS_UKL1
+East Wales,NUTS_UKL2
+Eastern Scotland (NUTS 2013),NUTS_UKM2
+South Western Scotland (NUTS 2013),NUTS_UKM3
+North Eastern Scotland,NUTS_UKM5
+Highlands and Islands,NUTS_UKM6
+Eastern Scotland,NUTS_UKM7
+West Central Scotland,NUTS_UKM8
+Southern Scotland,NUTS_UKM9
+Northern Ireland (UK),NUTS_UKN0
+Ísland,NUTS_IS00
+Oslo og Akershus,NUTS_NO01
+Hedmark og Oppland,NUTS_NO02
+Sør-Østlandet,NUTS_NO03
+Agder og Rogaland,NUTS_NO04
+Vestlandet,NUTS_NO05
+Trøndelag,NUTS_NO06
+Nord-Norge,NUTS_NO07
+Région lémanique,NUTS_CH01
+Espace Mittelland,NUTS_CH02
+Nordwestschweiz,NUTS_CH03
+Zürich,NUTS_CH04
+Ostschweiz,NUTS_CH05
+Zentralschweiz,NUTS_CH06
+Ticino,NUTS_CH07
+Crna Gora,NUTS_ME00
+Severna Makedonija,NUTS_MK00
+Beogradski region,NUTS_RS11
+Region Vojvodine,NUTS_RS12
+Region Sumadije i Zapadne Srbije,NUTS_RS21
+Region Juzne i Istocne Srbije,NUTS_RS22
+Istanbul,NUTS_TR10
+"Tekirdag, Edirne, Kirklareli",NUTS_TR21
+"Balikesir, Çanakkale",NUTS_TR22
+Izmir,NUTS_TR31
+"Aydin, Denizli, Mugla",NUTS_TR32
+"Manisa, Afyonkarahisar, Kütahya, Usak",NUTS_TR33
+"Bursa, Eskisehir, Bilecik",NUTS_TR41
+"Kocaeli, Sakarya, Düzce, Bolu, Yalova",NUTS_TR42
+Ankara,NUTS_TR51
+"Konya, Karaman",NUTS_TR52
+"Antalya, Isparta, Burdur",NUTS_TR61
+"Adana, Mersin",NUTS_TR62
+"Hatay, Kahramanmaras, Osmaniye",NUTS_TR63
+"Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir",NUTS_TR71
+"Kayseri, Sivas, Yozgat",NUTS_TR72
+"Zonguldak, Karabük, Bartin",NUTS_TR81
+"Kastamonu, Çankiri, Sinop",NUTS_TR82
+"Samsun, Tokat, Çorum, Amasya",NUTS_TR83
+"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüshane",NUTS_TR90
+"Erzurum, Erzincan, Bayburt",NUTS_TRA1
+"Agri, Kars, Igdir, Ardahan",NUTS_TRA2
+"Malatya, Elazig, Bingöl, Tunceli",NUTS_TRB1
+"Van, Mus, Bitlis, Hakkari",NUTS_TRB2
+"Gaziantep, Adiyaman, Kilis",NUTS_TRC1
+"Sanliurfa, Diyarbakir",NUTS_TRC2
+"Mardin, Batman, Sirnak, Siirt",NUTS_TRC3
+Veri,NUTS_AL01
+Qender,NUTS_AL02
+Jug,NUTS_AL03
